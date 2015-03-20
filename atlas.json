@@ -6,8 +6,8 @@
     "03-toc.html",
     "04-preface.html",
     "05-chapter.html",
-    "06-appendix.html"
-  ],
+    "GETTING-STARTED.html"
+    ],
   "formats": {
     "pdf": {
       "version": "web",
