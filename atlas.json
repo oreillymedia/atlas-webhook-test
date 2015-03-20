@@ -25,5 +25,8 @@
       "syntaxhighlighting": true
     }
   },
-  "theme": "oreillymedia/atlas_tech1c_theme"
+  "theme": "oreillymedia/atlas_tech1c_theme",
+  "name": "bravomartin/force-push",
+  "branches" : ["master"],
+  "export_formats" : ["html","pdf"]
 }
